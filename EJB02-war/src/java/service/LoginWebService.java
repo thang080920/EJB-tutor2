@@ -11,10 +11,6 @@ import javax.jws.WebMethod;
 import javax.jws.WebParam;
 import session.UsersFacadeLocal;
 
-/**
- *
- * @author Son
- */
 @WebService(serviceName = "LoginWebService")
 public class LoginWebService {
     @EJB

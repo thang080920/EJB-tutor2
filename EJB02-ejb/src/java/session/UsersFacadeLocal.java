@@ -9,10 +9,6 @@ import entity.Users;
 import java.util.List;
 import javax.ejb.Local;
 
-/**
- *
- * @author Son
- */
 @Local
 public interface UsersFacadeLocal {
 
